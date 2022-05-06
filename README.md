@@ -2,8 +2,8 @@
           
 ## Hi! My name is Humberto Escorel!
 
-- I am currently working as a backend developer and I'm also required to know to do basic frontend.
-- I am currently improving my knowlegde on C# and learning Java.
+- I am currently working as a backend developer and I'm also required to know how to do basic frontend.
+- I am currently improving my knowledge on C# and learning Java.
 - I can also make single page applications using Angular.
 
 <div>
